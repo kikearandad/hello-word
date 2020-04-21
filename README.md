@@ -1,2 +1,4 @@
 # hello-word
-thi is a little test
+this is a little test
+
+Inicial point
